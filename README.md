@@ -5,18 +5,15 @@
 
 Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**, desenvolvendo projetos envolvendo pipelines de dados, APIs, bancos de dados, processamento de dados e automação de processos.
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias
 
-### 💻 Linguagens de Programação
-# Python
-# C
+**Linguagens:** Python • C
 
-### 🗄️ Banco de Dados
-# PostgreSQL
+**Dados:** Pandas • SQL • PostgreSQL
 
-### 🤖 Ferramentas
-# Git
-# Power Automate
+**Engenharia de Dados:** Docker • Airflow • APIs • ETL
+
+**Automação:** Power Automate • Excel
 
 ### 📌 Projetos
 
