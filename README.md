@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou o Ryan 👋
 
-<!--
-**ryan-01-1/ryan-01-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
+🐍 Python • SQL • Data Engineering • Automation
 
-Here are some ideas to get you started:
+Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**, desenvolvendo projetos envolvendo pipelines de dados, APIs, bancos de dados, processamento de dados e automação de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+**Linguagens**
+
+* Python
+* C
+* Java
+
+**Dados**
+
+* Pandas
+* SQL
+* PostgreSQL
+
+**Engenharia de Dados**
+
+* Docker
+* Apache Airflow
+* APIs
+* ETL
+
+**Automação**
+
+* Power Automate
+* Excel
+
+### 📌 Projetos
+
+**Bitcoin Data Pipeline**
+Pipeline desenvolvido em Python para extração, transformação e armazenamento de dados utilizando a API da CoinGecko.
+
+> Mais projetos em desenvolvimento.
+
+### 📫 Contato
+
+[LinkedIn](www.linkedin.com/in/ryan-lima-150246210)
