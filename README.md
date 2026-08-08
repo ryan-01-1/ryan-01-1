@@ -5,35 +5,22 @@
 
 Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**, desenvolvendo projetos envolvendo pipelines de dados, APIs, bancos de dados, processamento de dados e automação de processos.
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens**
+### 💻 Linguagens de Programação
+![Python](https://shields.io)
+![C](https://shields.io)
 
-* Python
-* C
-* Java
+### 🗄️ Banco de Dados
+![SQL](https://shields.io)
 
-**Dados**
-
-* Pandas
-* SQL
-* PostgreSQL
-
-**Engenharia de Dados**
-
-* Docker
-* Apache Airflow
-* APIs
-* ETL
-
-**Automação**
-
-* Power Automate
-* Excel
+### 🤖 Automação e Ferramentas
+![Power Automate](https://shields.io)
+![Git](https://shields.io)
 
 ### 📌 Projetos
 
-**Bitcoin Data Pipeline**
+**[Bitcoin Data Pipeline](https://github.com/ryan-01-1/bitcoin-data-pipeline)**
 Pipeline desenvolvido em Python para extração, transformação e armazenamento de dados utilizando a API da CoinGecko.
 
 > Mais projetos em desenvolvimento.
