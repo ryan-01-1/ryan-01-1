@@ -8,15 +8,15 @@ Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**, des
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens de Programação
-![Python]([https://shields.io](https://img.shields.io/pypi/pyversions/:packageName))
-![C](https://shields.io)
+# Python
+# C
 
 ### 🗄️ Banco de Dados
-![SQL](https://shields.io)
+# PostgreSQL
 
-### 🤖 Automação e Ferramentas
-![Power Automate](https://shields.io)
-![Git](https://shields.io)
+### 🤖 Ferramentas
+# Git
+# Power Automate
 
 ### 📌 Projetos
 
