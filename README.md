@@ -11,8 +11,6 @@ Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**, des
 
 **Dados:** Pandas • SQL • PostgreSQL
 
-**Engenharia de Dados:** Docker • Airflow • APIs • ETL
-
 **Automação:** Power Automate • Excel
 
 ### 📌 Projetos
@@ -20,8 +18,7 @@ Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados**, des
 **[Bitcoin Data Pipeline](https://github.com/ryan-01-1/bitcoin-data-pipeline)**
 Pipeline desenvolvido em Python para extração, transformação e armazenamento de dados utilizando a API da CoinGecko.
 
-> Mais projetos em desenvolvimento.
 
 ### 📫 Contato
 
-[LinkedIn](www.linkedin.com/in/ryan-lima-150246210)
+[LinkedIn]((https://www.linkedin.com/in/ryan-lima-150246210))
